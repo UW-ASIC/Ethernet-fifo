@@ -1,6 +1,6 @@
-`default_nettype 
+`default_nettype none
 
-module memory(
+module memory (
 
     input wire i_clk,
     input wire i_rstn,             //active low reset

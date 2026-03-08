@@ -1,4 +1,4 @@
-`default_nettype 
+`default_nettype none
 
 module fifo_sync(
 
